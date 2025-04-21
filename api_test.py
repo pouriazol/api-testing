@@ -139,7 +139,7 @@ if __name__ == "__main__":
         writer = csv.writer(csvfile)
         writer.writerow(["Timestamp", "Test Name", "Status", "Message", "Duration"])
 
-    print("🚀 Starting API Tests...\n")
+    print(" Starting API Tests...\n")
     test_login_success()
     test_login_failure()
     test_get_existing_user()
