@@ -1,0 +1,16 @@
+{
+  "valid_login": {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+  },
+  "invalid_login": {
+    "email": "eve.holt@reqres.in"
+  },
+  "valid_user_id": 2,
+  "invalid_user_id": 999,
+  "create_user": {
+    "name": "testuser",
+    "job": "qa-engineer"
+  },
+  "delete_user_id": 2
+}
