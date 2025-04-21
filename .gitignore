@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+test_results.csv
+log.txt
+.idea
