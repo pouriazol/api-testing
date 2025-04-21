@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 Run the tests:
 
-python test_api.py
+python api_test.py
 
 🗂️ Output
 
